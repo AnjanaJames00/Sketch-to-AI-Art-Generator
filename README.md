@@ -6,8 +6,11 @@ Input-
 <img width="252" height="188" alt="image" src="https://github.com/user-attachments/assets/5d934e4b-8549-46c0-90d0-8b84618f6c1e" />
 
 Photorealistic Output -
+
 <img width="507" height="491" alt="image" src="https://github.com/user-attachments/assets/7fca9d27-c2b4-46de-baf3-ecb04d3c2517" />
+
 AI description-
+
 <img width="399" height="90" alt="image" src="https://github.com/user-attachments/assets/bd15357e-ed2e-4494-bab1-811983546c20" />
 
 Similarly few other outputs
