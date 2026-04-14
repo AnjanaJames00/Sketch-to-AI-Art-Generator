@@ -13,7 +13,7 @@ AI description-
 
 <img width="399" height="90" alt="image" src="https://github.com/user-attachments/assets/bd15357e-ed2e-4494-bab1-811983546c20" />
 
-Similarly few other outputs
+Similarly few other outputs based on the input provided
 
 <img width="487" height="470" alt="image" src="https://github.com/user-attachments/assets/34077df8-76bc-459e-a640-6f648c6afcf5" />
 <img width="510" height="501" alt="image" src="https://github.com/user-attachments/assets/51e89a18-a981-4a33-8c24-bd8d6f0c5153" />
